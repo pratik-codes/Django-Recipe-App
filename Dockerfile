@@ -1,6 +1,6 @@
 from python:3.7-alpine
 MAINTAINER Pratik Tiwari
-
+ 
 ENV PYTHONBUFFERED 1
 
 COPY ./requirements.txt /requirements.txt    
